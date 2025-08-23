@@ -6,3 +6,4 @@ const flattenArray = _.flattenDeep(array);
 
 console.log("Original Array:", array);
 console.log("NEW Array:", flattenArray);
+//function code to add the two numbers
